@@ -66,10 +66,13 @@ let salary = 1300.16472;
 // Math.random() * (max - min) + min
 
 // const colors = ["tomato", "teal", "orange", "deeplink", "skyblue"];
-// const max = colors.length - 1; 
+// const max = colors.length - 1;
 // const min = 0;
 // const index = Math.round(Math.random() * (max - min) + min);
 // const color = colors[index];
 // console.log(color);
 
 // document.body.style.backgroundColor = color;
+
+// let d = prompt("создай крестики нолики Димасичек, у тебя получится я верю ❤😌🙏☯")
+// console.log(d)
