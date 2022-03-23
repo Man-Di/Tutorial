@@ -24,9 +24,20 @@ console.log(orderMsg);
 const welcomeMsg1 = `гость ${firstName} ${lastName} поселяется в ${type} номер ${room}`;
 console.log(welcomeMsg1);
 
-let brand = prompt("Давай бренд");
-brand = brand.toLowerCase();
+// let brand = prompt("Давай бренд");
+// brand = brand.toLowerCase();
 
-console.log(brand);
+// console.log(brand);
 
-время 1:40 в видео
+// время 1:40 в видео 22.03.2022
+let brand = "Life"
+
+console.log(brand[0]);
+console.log(brand[1]);
+console.log(brand[2]);
+console.log(brand[3]);
+console.log(brand.slice(1));
+
+23:52
+
+
